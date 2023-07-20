@@ -5,12 +5,14 @@
   src: url(../font/KaushanScript-Regular.otf);
   font-weight: normal;
   font-style: normal;
+}
+
+ @font-face {
   font-family: 'Titre';
   src: url(../font/Tektur-Regular.ttf);
   font-style: normal;
   font-weight: normal;
-}
-
+ }
 * {
   margin: 0;
 }
